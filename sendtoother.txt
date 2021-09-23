@@ -1,0 +1,2 @@
+Hello
+git remote add origin2 https://Poomdanai@github.com/friend/egci313_2021T1.git
